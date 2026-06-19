@@ -5,7 +5,7 @@ Drug–miRNA association prediction plays a critical role in elucidating therape
 
 # Availability
 
-Datasets and source code are available at: https://github.com/zsflw/MSF-Mamba
+The datasets and source code are freely available at: https://github.com/zsflw/MSF-Mamba
 
 # File Description
 
